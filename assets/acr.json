@@ -1,0 +1,124 @@
+{
+  "d": [{
+    "questionId": 1,
+    "t": "What does DYK Stand for?",
+    "c": "Did You Know?",
+    "w": "Do You Know?",
+    "wr": "Dont You Know?"
+  }, {
+    "questionId": 2,
+    "t": "What does AFAIK Stand for?",
+    "c": "As Far As I Know",
+    "w": "As Fast As I Know",
+    "wr": "As Full As I Know"
+  }, {
+    "questionId": 3,
+    "t": "What does TFW Stand for?",
+    "c": "That Face When",
+    "w": "That Funny Wash",
+    "wr": "The Four Wheels"
+  }, {
+    "questionId": 4,
+    "t": "What does LMGTFY Stand for?",
+    "c": "Let Me Google That For You",
+    "w": "Let Me Get That For You",
+    "wr": "Let Me Go There For You"
+  }, {
+    "questionId": 5,
+    "t": "What does FTW Stand for?",
+    "c": "For The Win",
+    "w": "From That Window",
+    "wr": "For That War"
+  }, {
+    "questionId": 6,
+    "t": "What does ICYMI Stand for?",
+    "c": "In Case You Missed It",
+    "w": "In Case You Match It",
+    "wr": "In Case You Mask It"
+  }, {
+    "questionId": 7,
+    "t": "What does SMH Stand for?",
+    "c": "Shaking My Head",
+    "w": "Show Me How",
+    "wr": "Sell My Hat"
+  }, {
+    "questionId": 8,
+    "t": "What does ELI5 Stand for?",
+    "c": "Explain Like I'm 5",
+    "w": "Enjoy Like I'm 5",
+    "wr": "Eat Like I'm 5"
+  }, {
+    "questionId": 9,
+    "t": "What does FTFY Stand for?",
+    "c": "Fixed That For You",
+    "w": "Found That For You",
+    "wr": "Faced That For You"
+  }, {
+    "questionId": 10,
+    "t": "What does HIFW Stand for?",
+    "c": "How I Felt When",
+    "w": "Hate I Feel When",
+    "wr": "How I Face Wash"
+  }, {
+    "questionId": 11,
+    "t": "What does IMO Stand for?",
+    "c": "In My Opinion",
+    "w": "It May Open",
+    "wr": "Is My Office"
+  }, {
+    "questionId": 12,
+    "t": "What does JSYK Stand for?",
+    "c": "Just So You Know",
+    "w": "Just Saw You Know",
+    "wr": "Just Show Your Kitchen"
+  }, {
+    "questionId": 13,
+    "t": "What does TMI Stand for?",
+    "c": "Too Much Information",
+    "w": "That Maybe It",
+    "wr": "Then Make It"
+  }, {
+    "questionId": 14,
+    "t": "What does OTT Stand for?",
+    "c": "Over The Top",
+    "w": "Over The Table",
+    "wr": "On The Top"
+  }, {
+    "questionId": 15,
+    "t": "What does OOTD Stand for?",
+    "c": "Outfit Of The Day",
+    "w": "Out Of The Desk",
+    "wr": "Out Of The Den"
+  }, {
+    "questionId": 16,
+    "t": "What does YOLO Stand for?",
+    "c": "You Only Live Once",
+    "w": "Your Only Love Of",
+    "wr": "Your Outfit Like Office"
+  }, {
+    "questionId": 16,
+    "t": "What does NTS Stand for?",
+    "c": "Note To Self",
+    "w": "Not That Safe",
+    "wr": "Now That's Safe"
+  }, {
+    "questionId": 16,
+    "t": "What does HAND Stand for?",
+    "c": "Have A Nice Day",
+    "w": "How A Nice Day",
+    "wr": "Have A New Dish"
+  }, {
+    "questionId": 16,
+    "t": "What does WOAT Stand for?",
+    "c": "Worst Of All Time",
+    "w": "Work Out All Time",
+    "wr": "Watch Out All Time"
+  }, {
+    "questionId": 16,
+    "t": "What does WYL Stand for?",
+    "c": "Whatever You Like",
+    "w": "When You Like",
+    "wr": "What You Like"
+  }
+  ]
+}
